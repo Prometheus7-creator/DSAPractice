@@ -1,2 +1,3 @@
-compress s3 files-done
-device app feedback-done
+{
+"text": ["compress s3 files-done", "device app feedback-done"]
+}
